@@ -11,6 +11,7 @@ Can you help me answer this question?
 I want to make a little game this year. I'm currently working on a small gameboy game using [GBStudio.dev](https://github.com/chrismaltby/gb-studio), which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 
 ### :coffee: Wanna chat?
-GitHub stuff: I'd love to hear about your experience using Sponsors + things you'd like to see change or added in your GitHub profile.
-Other stuff: Talk to me about your favorite video games, ceramics, embroidery, and general creative stuff!
+**GitHub stuff:** I'd love to hear about your experience using Sponsors + things you'd like to see change or added in your GitHub profile.
+
+**Other stuff:** Talk to me about your favorite video games, ceramics, embroidery, and general creative stuff!
 :point_right: @ me on [Twitter](https://twitter.com/pifafu)
