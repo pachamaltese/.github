@@ -1,4 +1,4 @@
-# Pachá — @pachamaltese
+# Pachá
 
 Hi, I'm Pachá — a senior developer doing my best to try to focus on my work.
 
@@ -10,4 +10,4 @@ In my limited time I do my best to improve #rstats-based tools to facilitate ope
 
 - Personal site: https://pacha.dev
 - Blog: https://pacha.dev/blog
-- Email: ma vargas 11 at uc other dot cl or pacha at dcc dot uchile other dot cl
+- Email: ma vargas 11 at uc dot letter c + letter l
